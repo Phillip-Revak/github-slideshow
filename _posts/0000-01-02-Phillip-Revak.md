@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Boi you must be outside your mind.
 Use the left arrow to go back!
